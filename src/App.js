@@ -14,6 +14,7 @@ const GlobalStyles = createGlobalStyle`
     font-family: 'JetBrains Mono', monospace;
     background: #cecece;
     height: 100%;
+    overflow: hidden;
   }
 
 `;
